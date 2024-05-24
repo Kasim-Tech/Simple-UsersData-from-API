@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import UsersData from "../src/Component/UsersData";
 
+
+// dummy api from jsonplaceholder
 const API = "https://jsonplaceholder.typicode.com/users";
 
 const App = () => {
